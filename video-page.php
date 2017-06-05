@@ -49,7 +49,7 @@ playerInstance.setup({
 autostart: false,
 
 tracks: [{
-    file:'http://www.video-demo.dev/chapters.vtt',
+    file:'http://www.video-demo.dev/wp-content/themes/jgtest/chapters.vtt',
     kind:'chapters'
   }],
 
