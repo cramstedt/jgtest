@@ -9,6 +9,9 @@
 
 get_header(); ?>
 
+<script src="https://content.jwplatform.com/libraries/mnOGZ6VM.js"></script>
+<script>jwplayer.key="H4hkBtBtRtlne6d9bLvUsxwHPyXKJoeaBnnzJQ=="</script>
+
 <style>
 .jw-dock-image {
   background-size: 45%;
